@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">ARBAZ</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Nibh tellus molestie nunc non blandit. Viverra nibh cras pulvinar mattis nunc. Mollis aliquam ut porttitor leo a diam sollicitudin. Et netus et malesuada fames.
+        Nunc mattis enim ut tellus elementum sagittis vitae et. Sed vulputate odio ut enim. Lectus arcu bibendum at varius vel pharetra vel turpis.
+        Vitae congue mauris rhoncus aenean vel elit scelerisque. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim.
+        Fringilla ut morbi tincidunt augue interdum velit euismod in. Ligula ullamcorper malesuada proin libero nunc. Proin libero nunc consequat interdum varius sit amet.
+        Condimentum mattis pellentesque id nibh tortor id. Ultricies integer quis auctor elit sed vulputate. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.
+        Blandit massa enim nec dui nunc mattis. Facilisi morbi tempus iaculis urna id volutpat lacus.
+
+        Morbi leo urna molestie at elementum eu facilisis sed odio. Amet consectetur adipiscing elit ut aliquam purus.
+        Amet aliquam id diam maecenas ultricies mi. Ut diam quam nulla porttitor. Ullamcorper morbi tincidunt ornare massa eget egestas purus.
+        Sed cras ornare arcu dui vivamus arcu felis. Aliquam eleifend mi in nulla posuere.
+        Lacus vel facilisis volutpat est velit. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Viverra orci sagittis eu volutpat odio.
+
+        Placerat in egestas erat imperdiet sed euismod nisi porta lorem. Sed odio morbi quis commodo odio. Praesent semper feugiat nibh sed pulvinar proin.
+        orbi tempus iaculis urna id volutpat. Scelerisque fermentum dui faucibus in ornare. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus.</string>
+    <string name="what_is_your_nick_name">What is your nick name</string>
+    <string name="done">Done</string>
+</resources>
